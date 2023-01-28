@@ -2,7 +2,8 @@
     "name": "Lillie",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "pxt-oled-ssd1306": "github:MKleinSB/pxt-OLED-SSD1306#v0.0.5"
     },
     "files": [
         "main.blocks",
